@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1401417645 source:d:\cbworkspace\uftpclient\uftpclnt.c
+	<winsock2.h>
+	<stdio.h>
+
